@@ -450,8 +450,14 @@ body {
 
 /* 8. Reveal on scroll (animation) */
 .reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.7s ease-out, transform 0.7s ease-out;
+}
+
+.reveal.visible {
   opacity: 1;
-  transform: none;
+  transform: translateY(0);
 }
 
 /* 9. Responsive tweaks */
