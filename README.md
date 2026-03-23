@@ -8,4 +8,5 @@ You can view my online portfolio here:
 
 The site contains my latest CV, experience, skills, certifications, and contact details.
 
-If this link ever changes, you can always find it from my
+If this link ever changes, you can always find it from my GitHub profile:
+https://github.com/daxton-moras
